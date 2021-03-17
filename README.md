@@ -10,3 +10,4 @@ Check out my:
 
 - **PORTFOLIO:** https://jaumefabrega.github.io/ 
 - **LINKEDIN:** https://www.linkedin.com/in/jaumefabrega/
+- **EMAIL:** jaumefabregaroda@gmail.com
