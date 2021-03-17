@@ -6,4 +6,7 @@ I also have experience in Python, mainly for web development (Django) and some m
 
 I have a background in business and a passion for tech and computer programming. I am a self-motivated learner who loves to build new things. Outside of work, I enjoy watching movies, reading about new topics and mingling with people.
 
-Check out my portfolio at https://jaumefabrega.github.io/ and my LinkedIn profile at https://www.linkedin.com/in/jaumefabrega/
+Check out my:
+
+- **PORTFOLIO:** https://jaumefabrega.github.io/ 
+- **LINKEDIN:** https://www.linkedin.com/in/jaumefabrega/
