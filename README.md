@@ -1,6 +1,6 @@
 # I'm Jaume, nice to meet you 😊
 
-I'm a Full-stack Developer with a focus on the JavaScript ecosystem. I have experience with React, Redux, AngularJS, Express, Koa, Node, GraphQL, SQL (Postgres) and NoSQL (MongoDB).
+I'm a Full-stack Developer with a focus on the JavaScript ecosystem. I have experience with React, Redux, Express, Node, GraphQL, SQL (Postgres) and NoSQL (MongoDB).
 
 I also have experience in Python, mainly for web development (Django) and some machine learning (Scikit-learn), computer vision (OpenCV) and web scraping (BeautifulSoup and Selenium).
 
